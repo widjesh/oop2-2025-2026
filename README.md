@@ -40,7 +40,7 @@ Functionaliteiten:
 ## Applicatie starten
 
 ### Vereisten
-- Java 17 (of de versie die in de les wordt gebruikt)
+- Java 21 
 - Gradle
 - IDE zoals IntelliJ IDEA
 
