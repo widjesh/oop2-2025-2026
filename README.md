@@ -33,7 +33,7 @@ Functionaliteiten:
 - Spring Data JPA
 - H2 Database
 - Lombok
-- Maven
+- Gradle
 
 ---
 
@@ -41,7 +41,7 @@ Functionaliteiten:
 
 ### Vereisten
 - Java 17 (of de versie die in de les wordt gebruikt)
-- Maven
+- Gradle
 - IDE zoals IntelliJ IDEA
 
 ### Starten
